@@ -11,7 +11,7 @@ export default {
     <>
      <React.Fragment>
       <span className="mr-2 font-extrabold hidden md:inline">#OpRussia #UkraineInvasion</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <span className="text-gray-600 font-normal hidden md:inline"
         Exposing Corrupt Russian Oligarchs
       </span>
      </React.Fragment>
