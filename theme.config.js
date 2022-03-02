@@ -1,5 +1,9 @@
+import Gitlab from '@geist-ui/react-icons/twitter'
+
 export default {
-  projectLink: 'https://github.com/shuding/nextra',
+  projectLink: 'https://twitter.com/shoestring512',
+  projectLinkIcon: <Twitter />,
+  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – #OpRussia',
   nextLinks: true,
   prevLinks: true,
