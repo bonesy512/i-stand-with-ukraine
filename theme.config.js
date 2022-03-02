@@ -8,6 +8,7 @@ export default {
   footer: true,
   footerText: 'Fuck Russia © Glory To Ukraine.',
   logo: (
+    <>
      <React.Fragment>
       <span className="mr-2 font-extrabold hidden md:inline">#OpRussia #UkraineInvasion</span>
       <span className="text-gray-600 font-normal hidden md:inline">
