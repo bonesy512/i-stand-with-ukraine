@@ -1,67 +1,48 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  github: '',
+  docsRepositoryBase: '',
+  titleSuffix: '🇺🇦 Fuck Russian Oligarchs 🇺🇦',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Fuck Russia</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        Glory to Ukraine
       </span>
     </>
   ),
   head: (
     <>
-      <meta name="msapplication-TileColor" content="#ffffff" />
-      <meta name="theme-color" content="#ffffff" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
-      <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-icon-180x180.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="/android-icon-192x192.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="/favicon-96x96.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicon-16x16.png"
-      />
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+      <meta name="theme-color" content="#FFFFFF"/>
+        <link rel="apple-touch-icon" sizes="180x180" href="/icon.png"/>
+        <link rel="shortcut icon" href="/favicon.ico"/>
+        <link rel="manifest" href="/manifest.json"/>
+        <meta name="viewport" content="width=device-width"/>
+        <meta charSet="utf-8"/>
+        <title>Fuck Russian Oligarchs | ScanEx.Ru Drop</title>
+        <meta name="robots" content="index,follow"/>
+        <meta name="googlebot" content="index,follow"/>
+        <meta name="description" content="The ScanEx.Ru drop is public information and corruption should be rooted out."/>
+        <meta property="og:title" content="Fuck Russian Oligarchs"/>
+        <meta property="og:description" content="Exposing Corrupt Russian Oligarchs"/>
+        <meta property="og:url" content="https://fuckrussianoligarchs.xyz"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:image" content="https://fuckrussianoligarchs.xyz/public/guyfawkes.jpeg"/>
+        <meta property="og:image:alt" content="Guy Fawkes mask."/>
+        <meta property="og:image:width" content="1320"/>
+        <meta property="og:image:height" content="743"/>
+        <meta property="og:image" content="https://fuckrussianoligarchs.xyz/public/guyfawkes.jpeg"/>
+        <meta property="og:image:alt" content="Ukrainian in Guy Fawkes Mask"/>
+        <meta property="og:image:width" content="1012"/>
+        <meta property="og:image:height" content="506"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:site_name" content="Fuck Russian Oligarchs."/>
     </>
   ),
   search: true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: '👋',
+  footerEditLink: '',
+  footerText: <>Fuck Russia {new Date().getFullYear()} © Glory to Ukraine.</>,
+  unstable_faviconGlyph: '🇺🇦',
 }
